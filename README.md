@@ -1,8 +1,12 @@
 <h1> Olá! Eu sou o Diego Ramos ✌</h1>
-- Desenvolvedor Front end
 
+<ul>
+  <li>Formado em Sistemas de Informação pela UNISA</li>
+  <li>Passei por algumas áreas de TI, como, suporte, infra e analise de sistemas</li>
+  <li>Hoje, atuo como Desenvolvedor Front End, após ter contato com desenvolvedores e assim despertando a paixão pela programação</li>
+</ul>
 
-<br><br>
+<br>
 <h2>🛠️ Tecnologias</h2>
 <div>
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -11,7 +15,6 @@
   <img align="center" alt="React JS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
   <img align="center" alt="React Native" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"> 
-  
 </div>
 <br>
  
