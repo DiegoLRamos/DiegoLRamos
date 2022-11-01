@@ -3,7 +3,7 @@
 <ul>
   <li>Formado em Sistemas de Informação pela UNISA</li>
   <li>Passei por algumas áreas de TI, como, suporte, infra e analise de sistemas</li>
-  <li>Hoje, atuo como Desenvolvedor Front End, após ter contato com desenvolvedores e assim despertando a paixão pela programação</li>
+  <li>Após o contato direto com desenvolvedores, despertei a paixão pela programação e hoje atuo como Desenvolvedor Front End</li>
 </ul>
 
 <br>
